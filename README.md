@@ -1,15 +1,21 @@
 # CONTRIBUIÇÕES PARA DATASET DO TITANIC
 ![image](https://user-images.githubusercontent.com/95967979/145679664-9df8157d-9b92-44c4-9a32-9b8ece15f7e8.png)
-
+> **Nota:** imagem de internet, apenas para ilustração.
+> 
 * Contexto do Repositorio
 Contribuir para os diversoes estudos didaticos e aprendizados de Ciências de dados, Estatísticas e Machine Learning
 
-* O que temos de dados
 
+**O que temos de dados**
+|                |Nota                         |Dado                        |
+|----------------|-------------------------------|-----------------------------|
+|PassangerId|`identificador do passageiro`            |-            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 dataset > titanic.data
 
 São 12 colunas dispostas como:
-PassangerId (identificador do passageiro)
+ ()
 Survived: 0 == Não, 1 == Sim
 Pclass: classe de ingresso 1 == 1a classe , 2 == 2a classe, 3 == 3a classe
 Sex (Sexo): Sexo do passageiro male == masculino, female == feminino
