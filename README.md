@@ -109,6 +109,21 @@ São 254 sobreviventes do grupo prioritário (Crianças até 15 anos e mulheres)
 
 > Para este resultado e também para um questionamento de homens por faixa de 24 a 30 anos, crie grupos de idade como coluna facilitanto qualquer agrupamento.
 
+São 216 passageiros na 1a classe, 184 na 2a classe e 491 na 3a classe
+
+![image](https://user-images.githubusercontent.com/95967979/145682722-0c669f22-72a1-4740-ae13-52a6d2a5d1c5.png)
+
+Podemos afirmar que mulheres sobreviventes são mais numerosas que os homens em todas classes e na faixa entre 20 e 40 anos 
+
+![image](https://user-images.githubusercontent.com/95967979/145682805-ab044df3-0d36-4d55-bb5e-9596292cc40b.png)
+
+
 # **Contribuições e pesquisas**
+
+stackedit.io
+
+https://matplotlib.org/
+
+https://seaborn.pydata.org/
 
 http://titanicemfoco.blogspot.com/2011/10/dentro-do-titanic-uma-visao-geral.html
