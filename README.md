@@ -72,7 +72,6 @@ Embarked: 0,2% de dados faltantes
 Quantidade de dados faltantes, Age 19,9%, Cabin 77,1% e Embarked 0,2%
 
 ![image](https://user-images.githubusercontent.com/95967979/145681962-74e6108e-700c-4cba-82ec-4f991de6e07a.png)
-
 ![image](https://user-images.githubusercontent.com/95967979/145681964-c75302db-b8e0-415c-90ad-426b825863be.png)
 
 > Para preencher os dados faltantes, adotei o vies de que não podemos perder nenhuma linha de dados e para cada coluna temos um modo de preencher
@@ -80,13 +79,13 @@ Quantidade de dados faltantes, Age 19,9%, Cabin 77,1% e Embarked 0,2%
 
 ![image](https://user-images.githubusercontent.com/95967979/145682312-6a6bb6fe-7baa-4d4b-9b0e-5e65732f6aa7.png)
 
-
 > Para Embarked, adotei o porto de embarque que tem maior numero de embarques para preencher os 2 dados faltantes.
 
 ![image](https://user-images.githubusercontent.com/95967979/145682327-37efc046-821f-411c-8266-f3a94345eaee.png)
 
-
 > Para Cabin, aloquei os 77,1% dos dados faltantes em um status de Deck.
+
+# **Questinamentos**
 
 São 577 Homens e 314 Mulheres à bordo
 
@@ -104,7 +103,11 @@ Proporção base o total de passageiros que não sobreviveu e sobreviveu por sex
 
 ![image](https://user-images.githubusercontent.com/95967979/145682452-7188ecbc-002a-4d5b-ac59-25e9667788c1.png)
 
+São 254 sobreviventes do grupo prioritário (Crianças até 15 anos e mulheres)
 
+![image](https://user-images.githubusercontent.com/95967979/145682570-81dd36e2-5aa9-403d-9199-7db426d81146.png)
+
+> Para este resultado e também para um questionamento de homens por faixa de 24 a 30 anos, crie grupos de idade como coluna facilitanto qualquer agrupamento.
 
 # **Contribuições e pesquisas**
 
