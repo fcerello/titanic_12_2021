@@ -67,6 +67,15 @@ Embarked: 0,2% de dados faltantes
 - Dos homens com idade entre 24 e 30 anos quantos da classe 3 sobreviveram? Quantos da classe 2 não sobreviveram?
 - POdemos afirmar que mulheres sobreviventes são mais numeroras que os homens? em qual classe e qual faixa de idade?
 
+# **Algumas das respostas para os questionamentos**
+
+Quantidade de dados faltantes, Age 19,9%, Cabin 77,1% e Embarked 0,2%
+![image](https://user-images.githubusercontent.com/95967979/145681962-74e6108e-700c-4cba-82ec-4f991de6e07a.png)
+![image](https://user-images.githubusercontent.com/95967979/145681964-c75302db-b8e0-415c-90ad-426b825863be.png)
+
+> Para preencher os dados faltantes, adotei o vies de que não podemos perder nenhuma linha de dados e para cada coluna temos um modo de preencher
+
+
 # **Contribuições e pesquisas**
 
 http://titanicemfoco.blogspot.com/2011/10/dentro-do-titanic-uma-visao-geral.html
