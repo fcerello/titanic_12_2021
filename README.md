@@ -1,13 +1,13 @@
 # CONTRIBUIÇÕES PARA DATASET DO TITANIC
 ![image](https://user-images.githubusercontent.com/95967979/145679664-9df8157d-9b92-44c4-9a32-9b8ece15f7e8.png)
 > **Nota:** imagem de internet, apenas para ilustração.
-> 
-**Contexto do Repositorio**
+ 
+# **Contexto do Repositorio**
 
 Contribuir para os diversoes estudos didaticos e aprendizados de Ciências de dados, Estatísticas e Machine Learning
 
 
-**O que temos de dados nas 12 colunas**
+# **O que temos de dados nas 12 colunas**
 |                |Nota                         |Dado                        |
 |----------------|-------------------------------|-----------------------------|
 |PassangerId|`Identificador do passageiro`            |-            |
@@ -25,7 +25,7 @@ Contribuir para os diversoes estudos didaticos e aprendizados de Ciências de da
 dataset > titanic.data
 
 
-**Tipo de dados originais do dataset:**
+# **Tipo de dados originais do dataset:**
 |                |Tipo                         |
 |----------------|-------------------------------|
 |PassangerId|`int64`            |
@@ -42,7 +42,7 @@ dataset > titanic.data
 |Embarked          |`object`|
 
 
-**Dataset possui 891 linhas de dados e dados faltantes em:**
+# **Dataset possui 891 linhas de dados e dados faltantes em:**
 
 Age: 19.9% de dados faltantes
 
@@ -50,8 +50,23 @@ Cabin: 77,1% de dados faltantes
 
 Embarked: 0,2% de dados faltantes
 
+# **Perguntas respondidas nes repositorio**
 
+- Quantas linhas e colunas tem o dataset? Quais os tipos das colunas?
+- Quantos dados faltantes o dataset possui?
+- Quantas mulheres e quantos homes estavam à bordo?
+- Quantos passagueiros sobreviveram e quantos não sobreviveram?
+- Quantas mulheres não sobreviveram?
+- Proporcionalmente, sobreviveram mais homens ou mais mulheres?
+- Levando-se em consideração a idade dos passageiros, qual a idade e quantidade de pessoas com maoir número de mortos?
+- Qual a média de idade dos homens sobreviventes?
+- Levando-se em consideração passageiros prioritários, qual a proporção de sobreviventes por sexo? (mulher e crianças de até 15 anos independente do sexo)
+- Qual a quantidade de passagueiros por classe?
+- Qual o percentual de sobreviventes por classe?
+- A quantidade de sobreviventes e não sobreviventes, agrupados por sexo e classe
+- Dos homens com idade entre 24 e 30 anos quantos da classe 3 sobreviveram? Quantos da classe 2 não sobreviveram?
+- POdemos afirmar que mulheres sobreviventes são mais numeroras que os homens? em qual classe e qual faixa de idade?
 
-**Contribuições e pesquisas**
+# **Contribuições e pesquisas**
 
 http://titanicemfoco.blogspot.com/2011/10/dentro-do-titanic-uma-visao-geral.html
