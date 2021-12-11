@@ -9,23 +9,31 @@ Contribuir para os diversoes estudos didaticos e aprendizados de Ciências de da
 **O que temos de dados**
 |                |Nota                         |Dado                        |
 |----------------|-------------------------------|-----------------------------|
-|PassangerId|`identificador do passageiro`            |-            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|PassangerId|`Identificador do passageiro`            |-            |
+|Survived          |`Sobreviveu?`            |0 == Não, 1 == Sim            |
+|Pclass          |`Classe de ingresso`|1 == 1a classe , 2 == 2a classe, 3 == 3a classe|
+|Sex          |`Sexo do passageiro`|male == masculino, female == feminino|
+|Age          |`Idade em anos`|-|
+|Sibsp          |`Quantidade de irmãos / cônjuges a bordo do Titanic`|-|
+|Parch          |`Quantidade de pais / crianças a bordo do Titanic`|-|
+|Ticket          |` Número do bilhete de embarque`|-|
+|Fare          |`Tarifa paga pelo Passageiro`|-|
+|Cabin          |`Número de cabine`|-|
+|Embarked          |`Porto de Embarque`|C = Cherbourg, Q = Queenstown, S = Southampton|
 dataset > titanic.data
 
 São 12 colunas dispostas como:
  ()
-Survived: 0 == Não, 1 == Sim
-Pclass: classe de ingresso 1 == 1a classe , 2 == 2a classe, 3 == 3a classe
-Sex (Sexo): Sexo do passageiro male == masculino, female == feminino
-Age (Idade): Idade em anos
-Sibsp: Quantidade de irmãos / cônjuges a bordo do Titanic
-Parch: Quantidade de pais / crianças a bordo do Titanic
-Ticket (Bilhete): Número do bilhete de embarque
-Fare (Tarifa): Tarifa paga pelo Passageiro
-Cabin (Cabine): Número de cabine
-Embarked (Embarque): Porto de Embarque (C = Cherbourg, Q = Queenstown, S = Southampton)
+: 
+:  
+ (Sexo):  
+ (Idade): 
+: 
+: 
+ (Bilhete):
+ (Tarifa): 
+ (Cabine): 
+ (Embarque):  ()
 
 Tipo de dados originais do dataset:
 Survived: int64
