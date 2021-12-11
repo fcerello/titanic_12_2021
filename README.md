@@ -50,7 +50,7 @@ Cabin: 77,1% de dados faltantes
 
 Embarked: 0,2% de dados faltantes
 
-# **Perguntas respondidas nes repositorio**
+# **Perguntas respondidas neste repositorio**
 
 - Quantas linhas e colunas tem o dataset? Quais os tipos das colunas?
 - Quantos dados faltantes o dataset possui?
@@ -70,10 +70,40 @@ Embarked: 0,2% de dados faltantes
 # **Algumas das respostas para os questionamentos**
 
 Quantidade de dados faltantes, Age 19,9%, Cabin 77,1% e Embarked 0,2%
+
 ![image](https://user-images.githubusercontent.com/95967979/145681962-74e6108e-700c-4cba-82ec-4f991de6e07a.png)
+
 ![image](https://user-images.githubusercontent.com/95967979/145681964-c75302db-b8e0-415c-90ad-426b825863be.png)
 
 > Para preencher os dados faltantes, adotei o vies de que não podemos perder nenhuma linha de dados e para cada coluna temos um modo de preencher
+> Para Age, a abordagem foi separar a média de idade por Sexo e Classe, imaginando uma situação de que por classe teriamos uma proximidade de idades de acordo com classe social da época e por homen e mulher da mesma madeira.
+
+![image](https://user-images.githubusercontent.com/95967979/145682312-6a6bb6fe-7baa-4d4b-9b0e-5e65732f6aa7.png)
+
+
+> Para Embarked, adotei o porto de embarque que tem maior numero de embarques para preencher os 2 dados faltantes.
+
+![image](https://user-images.githubusercontent.com/95967979/145682327-37efc046-821f-411c-8266-f3a94345eaee.png)
+
+
+> Para Cabin, aloquei os 77,1% dos dados faltantes em um status de Deck.
+
+São 577 Homens e 314 Mulheres à bordo
+
+![image](https://user-images.githubusercontent.com/95967979/145682363-c9cd0490-01c1-47fd-b030-97271baaed9a.png)
+
+São 549 não sobreviventes e 342 sobreviventes
+
+![image](https://user-images.githubusercontent.com/95967979/145682409-540ee9bb-0b50-434a-913f-93e9146ef17e.png)
+
+No total 81 mulheres não sobreviveram
+
+![image](https://user-images.githubusercontent.com/95967979/145682434-cea293bb-90e5-4e6a-8d8d-aed420c3704d.png)
+
+Proporção base o total de passageiros que não sobreviveu e sobreviveu por sexo
+
+![image](https://user-images.githubusercontent.com/95967979/145682452-7188ecbc-002a-4d5b-ac59-25e9667788c1.png)
+
 
 
 # **Contribuições e pesquisas**
